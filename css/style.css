@@ -1,0 +1,140 @@
+body {
+	background-color: #515A5A;
+}
+
+#Header {
+	width: 100%;
+
+}
+
+#Header h1 {
+	font-family: Arial;
+	font-size: 48px;
+	text-align: center;
+	margin: 0px 2px 0px 2px;
+	color: #F96D00;
+	background-color: #515A5A;
+}
+
+#Menu{
+	margin-top: 2%;
+	text-align: center;
+}
+
+#Menu a{
+	text-decoration: none;
+	color: #F2F2F2;
+	margin-right: 50px;
+	font-family: Arial;
+	font-size: 26px;
+}
+
+#Menu a:hover{
+	color: #F96D00;
+}
+
+#Menu a:active{
+	color: #F96D40;
+}
+
+#Menu li {
+	display: inline;
+}
+
+#Seccion {
+	margin-top: 2%;
+}
+
+.Articulo p{
+	font-family: Arial;
+	font-size: 18px;
+	color: #F96D00;
+	text-align: center;
+}
+
+.Articulo img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+#imagenes {
+	width: 180px;
+	height: 180px;
+}
+
+#Tabla h4{
+	font-family: Arial;
+	font-size: 32px;
+	color: #F96D00;
+	text-align: center;
+	background-color: #515A5A;
+}
+
+#Tabla table, td , th {
+	border: 1px solid white;
+	border-collapse: collapse;
+	text-align: center;
+	margin: auto;
+}
+
+#Tabla td, th{
+	padding: 4px;
+}
+
+#Tabla th {
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	background-color: #424949;
+
+}
+
+#Tabla .impar td{
+	font-family: Arial;
+	font-size: 18px;
+	color: orange;
+	background-color: #7B7D7D;
+}
+
+#Tabla .par td{
+	font-family: Arial;
+	font-size: 18px;
+	color: orange;
+	background-color: #626567;
+}
+
+#Footer h4{
+	font-family: Arial;
+	font-size: 32px;
+	color: #F96D00;
+	text-align: center;
+	background-color: #515A5A;
+}
+
+#Footer a{
+	text-decoration: none;
+	color: #F2F2F2;
+	margin-right: 50px;
+}
+
+#Footer a:hover{
+	color: #F96D00;
+}
+
+#Footer a:active{
+	color: #F96D40;
+}
+
+#Footer {
+	text-align: center;
+}
+
+#Footer li {
+	display: inline;
+}
+
+#Footer p{
+	color: #F2F2F2;
+}
+
