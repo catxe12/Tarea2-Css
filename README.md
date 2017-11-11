@@ -25,6 +25,6 @@ Etiquetas CSS utilizadas:
 * Para la modificación del tamaño: **Width y height**
 * Para la actuación de los enlaces: **a:hover** y **a:activate**
 
-Se puede ver la web con el código CSS aplicado a través del siguiente link: **[MOTORACING](https://rawgit.com/catxe12/Tarea2-Css/master/index.html)**
+Se puede ver la web con el código CSS aplicado a través del siguiente link: **[MOTORACING](https://rawgit.com/catxe12/Tarea2-Css/master/index.htmll)**
 
 >Observación: añadido color de fondo en las etiquetas <**h1**> e <**h4**>, aunque es el mismo color que hay de fondo, ya que no queía producir una alteración entre colores
