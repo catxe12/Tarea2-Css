@@ -93,14 +93,14 @@ body {
 #Tabla .impar td{
 	font-family: Arial;
 	font-size: 18px;
-	color: orange;
+	color: #E67E22;
 	background-color: #7B7D7D;
 }
 
 #Tabla .par td{
 	font-family: Arial;
 	font-size: 18px;
-	color: orange;
+	color: #F39C12;
 	background-color: #626567;
 }
 
@@ -109,7 +109,7 @@ body {
 	font-size: 32px;
 	color: #F96D00;
 	text-align: center;
-	background-color: #515A5A;
+	
 }
 
 #Footer a{
